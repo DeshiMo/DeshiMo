@@ -181,3 +181,13 @@ footer img{
 	margin-left: 100px;
 	margin-right: -150px;
 }
+
+.tijden{
+	float: right;
+	text-align: right;
+	margin-right: 70px;
+	border-left: darkred 5px solid;
+	padding-right: 200px;
+	padding-left: 100px;
+
+}

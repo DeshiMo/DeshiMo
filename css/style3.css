@@ -155,7 +155,11 @@ header{
 
 #adress{
 	margin-left: -900px;
-	margin-top: 100px;
+	margin-top: 200px;
+}
+
+#adress h3{
+	margin-left: 680px;
 }
 
 #Openingstijden{
@@ -170,6 +174,16 @@ header{
 	height: 300px;
 	width: 400px;
 	border: darkred 2px solid;
+}
+
+.tijden{
+	float: right;
+	text-align: right;
+	margin-right: 70px;
+	border-left: darkred 5px solid;
+	padding-right: 200px;
+	padding-left: 100px;
+
 }
 
 footer{
